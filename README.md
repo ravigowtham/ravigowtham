@@ -23,11 +23,10 @@ I have experience in **frontend development**, **hardware validation**, and **au
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 
-#### **Backend & Tools:**  
+#### **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![SIMICS](https://img.shields.io/badge/SIMICS-Yellow?style=for-the-badge)  
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Blue?style=for-the-badge)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
 
 #### **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -37,6 +36,17 @@ I have experience in **frontend development**, **hardware validation**, and **au
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+#### **Tools and Libraries:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![SIMICS](https://img.shields.io/badge/SIMICS-Yellow?style=for-the-badge)  
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Blue?style=for-the-badge)  
 
 ---
 
@@ -73,4 +83,4 @@ I have experience in **frontend development**, **hardware validation**, and **au
 
 ---
 
-🔥 Always eager to learn, build, and contribute! Feel free to check out my repositories!  
+🔥 Always eager to learn, build, and contribute! Feel free to check out my repositories!
