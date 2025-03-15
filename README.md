@@ -41,10 +41,27 @@ I have experience in **frontend development**, **hardware validation**, and **au
 ---
 
 ## 💼 Experience  
-- **Intel** (Summer Internship)  
+- **Intel** (Summer Internship)  Graduate Technical Analyst
   - Worked in the **pre-silicon system validation team**  
   - Automated firmware testing and log parsing  
   - Developed a TCP application for debugging  
+  - Ensured integrity and reliability of discrete graphics cards using SIMICS for hardware validation as part of Intel’s    pre-silicon system validation team.
+  -	Optimized a Python-based application for the dGPU project, improving SIMICS log parsing efficiency and reducing analysis time by 40%, thereby accelerating pre-silicon validation timelines
+  -	Automated firmware download testing across 10+ IP components, ensuring efficient integration and reducing firmware validation time by 30%, which improved overall pre-si validation prior to production
+  -	Enabled NPU windows driver stack on pre-silicon platforms
+
+- **Cognizant Technology Solutions** Programmer Analyst	(Feb 2021 to Dec 2022)
+  -	Developed IVR applications using Amazon Connect and Amazon Lambda, with Node.js powering the backend servers, enhancing user experience for 10,000+ customers.
+  - Built RESTful APIs to integrate IVR call flows with backend systems, reducing response time by 15%.
+  - Deployed applications on AWS Elastic Beanstalk, automating CI/CD pipelines to reduce deployment time by 20%.
+  - Collaborated with DevOps teams to automate deployment processes and ensure robust regression testing using CYARA.
+- **DXC Technology** Associate Software Engineer	(July 2020 to Feb 2021)
+  -	Designed and maintained full-stack applications using Python (Flask) and React, streamlining Workday integrations for Pfizer.
+  -	Developed RESTful APIs to connect external systems with Workday, improving data flow efficiency by 30%.
+  -	Utilized ETL tools for data migration, reducing processing time by 25%.
+  -	Created custom reports and dashboards using Workday tools, enabling data-driven decision-making for clients.
+
+
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravi-gowtham-balusu)  
@@ -52,7 +69,7 @@ I have experience in **frontend development**, **hardware validation**, and **au
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ravigowtham.balusu@gmail.com)  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravigowtham&show_icons=true&theme=dark)  
 
 ---
 
